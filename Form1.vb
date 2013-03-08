@@ -79,4 +79,3 @@ Public Class InvalidPlayerNumberException
         MyBase.New("人数が4で割り切れません。")
     End Sub
 End Class
-
